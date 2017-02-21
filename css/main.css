@@ -8,13 +8,13 @@ html {
 
 header {
 	background-color: #efbd51;
-	padding-top:15px;
-	padding-bottom:20px;
+	padding-top: 15px;
+	padding-bottom: 20px;
 	margin-bottom: 40px;
 }
 
 h1 {
-	margin:0px;
+	margin: 0px;
 	padding-bottom: 5px;
 	font-size: 25px;
 }
@@ -45,6 +45,6 @@ img {
 }
 
 .col4wrapper {
-  border: 1px solid #eee;	
-  margin-bottom: 20px;
+	border: 1px solid #eee;	
+	margin-bottom: 20px;
 }
